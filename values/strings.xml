@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalendarAppExample</string>
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+    <string name="input_title">Title</string>
+    <string name="garbage_icon">garbage</string>
+    <string name="label_date">Date</string>
+    <string name="label_time">Time</string>
+</resources>
